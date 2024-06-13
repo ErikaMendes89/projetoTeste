@@ -1,0 +1,14 @@
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\bin\Debug\net8.0\projetoteste.exe
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\bin\Debug\net8.0\projetoteste.deps.json
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\bin\Debug\net8.0\projetoteste.runtimeconfig.json
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\bin\Debug\net8.0\projetoteste.dll
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\bin\Debug\net8.0\projetoteste.pdb
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.dll
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\refint\projetoteste.dll
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.pdb
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\projetoteste.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Documentos\estudos-c#\projetoteste\obj\Debug\net8.0\ref\projetoteste.dll
